@@ -1,0 +1,10 @@
+Notes
+
+Design patterns
+
+- Creational patterns
+  - how objects are created during lifetime of program. ie builder, factory, singleton.
+- Structural patterns
+  - organise various parts of the program into larger and complex structures. ie. Adapter, facade
+- Bhevioural patterns
+  - intended to increase flexibility and efficience to carry of comms and interactions. ie. iterator, observer.
